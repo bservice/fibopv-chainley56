@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 var one = 0;
-var two = 1;
+var two = ;
 var three;
 
 var num = prompt(10,0);
